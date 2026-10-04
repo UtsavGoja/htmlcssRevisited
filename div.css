@@ -1,0 +1,141 @@
+.red-square {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+/* 9b */
+.green-circle {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+/* 9c */
+.title {
+  font-family: Arial;
+}
+.card {
+  border: 1px solid rgb(150, 150, 150);
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
+/* 9d */
+p {
+  font-family: Arial;
+  margin: 0;
+}
+.card {
+  background-color: rgb(33, 33, 33);
+  width: 360px;
+  padding: 20px 15px;
+}
+.title {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.subtitle {
+  color: rgb(160, 160, 160);
+}
+
+/* 9e */
+.card {
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding: 12px;
+  width: 450px;
+  border-radius: 6px;
+}
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.text-box {
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+/* 9f */
+.profile {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.profile-picture {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+.name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 4px 8px;
+}
+.mutual-friends {
+  color: rgb(100, 100, 100);
+  margin: 0 0 12px 8px;
+}
+.add-friend-button {
+  background-color: rgb(24, 119, 242);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin: 0 0 10px 8px;
+}
+
+/* 9g */
+.profile {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin-right: 15px;
+}
+
+/* 9h */
+div {
+  text-align: center;
+}
+img {
+  width: 200px;
+  margin: 10px 0;
+}
+input {
+  border: none;
+  padding: 12px 16px;
+  font-size: 16px;
+  width: 500px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+.google-button {
+  background-color: rgb(245, 245, 245);
+  border: none;
+  font-size: 15px;
+  padding: 12px 20px;
+}
+.search-button {
+  margin-right: 10px;
+}
